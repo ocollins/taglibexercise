@@ -1,0 +1,17 @@
+<taglib>
+    <tlib-version>1.0</tlib-version>
+    <jsp-version>2.09</jsp-version>
+    <short-name>First Tag Lib</short-name>
+    <uri>http://matc.edu/mytags</uri>
+    <tag>
+        <name>MyTag</name>
+        <tag-class>edu.matc.taglibexercise.FirstTag</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+    <tag>
+        <name>MySecondTag</name>
+        <tag-class>edu.matc.taglibexercise.SecondTag</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+
+</taglib>
